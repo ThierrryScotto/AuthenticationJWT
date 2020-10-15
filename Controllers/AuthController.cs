@@ -21,6 +21,8 @@ namespace AuthenticationJWT.Controllers
                 return NotFound(new { message = "User not found" });
             }
 
+            user.Result.Password = "";
+            
             var token = TokenService.GenerateToken(user.Result.Email, user.Result.Role);
 
             return new 
