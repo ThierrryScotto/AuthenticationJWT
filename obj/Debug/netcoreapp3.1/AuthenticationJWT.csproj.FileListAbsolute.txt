@@ -27,3 +27,17 @@
 /home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/obj/Debug/netcoreapp3.1/AuthenticationJWT.dll
 /home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/obj/Debug/netcoreapp3.1/AuthenticationJWT.pdb
 /home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/obj/Debug/netcoreapp3.1/AuthenticationJWT.genruntimeconfig.cache
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/thierry/Documentos/Thierry/DotNet/AuthenticationJWT/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
