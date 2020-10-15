@@ -45,7 +45,7 @@ namespace AuthenticationJWT.Controllers
         }
 
         [HttpGet]
-        [Route("{id:int}")]
+        [Route("user/{id:int}")]
         [Authorize]
         public async Task<ActionResult<User>> GetUserById([FromServices] DataContext context, int id)
         {

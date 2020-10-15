@@ -8,11 +8,11 @@ using Microsoft.EntityFrameworkCore;
 namespace AuthenticationJWT.Controllers
 {
     [ApiController]
-    [Route("auth")]
+    [Route("v1/core")]
     public class AuthController : ControllerBase
     {
         [HttpPost]
-        [Route("")]
+        [Route("authetication")]
         public async Task<ActionResult<dynamic>> Autheticate([FromServices]DataContext context , [FromBody]User body)
         {
             var user = context.User.FirstOrDefaultAsync(x => x.Email == body.Email && x.Password == body.Password);
